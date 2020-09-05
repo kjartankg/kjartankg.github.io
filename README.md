@@ -1,18 +1,10 @@
-# front cover jekyll theme
+# Simple personal web page
+This is a repository for a simple personal web page that utilizes the [front cover jekyll theme.](dashingcode/front-cover)
 
-## Why choose this jekyll theme for your front page?
-* You don't have to modify any HTML, everything can be modified in config.yml.
-* Very lightweight. No Javascript, No Bootstrap etc..
-* MIT licensed.
-
-
-## See it in action
-<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
+## Page location
+[The page.](https://kjartankg.github.io/)
 
 ## Credits
-The background image that was used as an example comes from Tom Hall.
-You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
-It's licensed under Creative-Commons.
+I have changed out the background image that came with the theme for one of my own.
 
-This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
-
+This theme makes use of the amazing [Font Awesome](http://fontawesome.io/) icons.
